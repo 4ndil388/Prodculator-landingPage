@@ -15,7 +15,7 @@ export function Hero() {
 
         {/* New Features Title */}
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-8">
-          <span className="text-white">New Features Coming to </span>
+          <span className="text-white">New Features Coming to</span>
           <span className="text-yellow-500">Prodculator</span>
         </h1>
 
